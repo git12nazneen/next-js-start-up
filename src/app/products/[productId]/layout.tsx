@@ -8,4 +8,4 @@ export default function ProductDetailsLayout({
             <h2>Features Products</h2>
         </>
     )
-}
+}   
